@@ -1,0 +1,75 @@
+/* .one{
+    color: red;
+    background-color: pink;
+    border: 1px solid red;
+    padding: 50px;
+    margin-left: 100px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.two{
+    background-color: blueviolet;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    float: right;
+}
+
+.two:hover{
+    background-color: red;
+    color: black;
+    border: 1px solid blue;
+}
+
+.two:focus{
+    background-color: green;
+    color: greenyellow;
+}
+
+
+.three{
+    background-color: green;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.four{
+    width: 400px;
+} */
+ .one{
+    font-size: 30px;
+     font-weight: 7;
+    color: red;
+    background-color:white;
+ }
+ .two{
+    font-size: 30px;
+     font-weight: 7;
+    color: red;
+    background-color:white;
+ }
+ .three{
+    font-size: 30px;
+     font-weight: 7;
+    color: red;
+    background-color:white;
+ }
+ 
+ .outer_div{
+    display: flex;
+    flex-wrap: wrap;
+ }
